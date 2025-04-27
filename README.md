@@ -26,5 +26,5 @@ This is a simple application built with **Next.js** (for the frontend) and **Nod
 - **AWS EC2** for hosting the backend
 
 ## Backend code
-   git clone https://github.com/Praneethpshetty24/node-js.git
+   https://github.com/Praneethpshetty24/node-js.git
 
