@@ -4,7 +4,7 @@ This is a simple application built with **Next.js** (for the frontend) and **Nod
 
 ## Project Structure
 ## AWS ECS Dashboard
-![AWS ECS Dashboard](/aws.png)
+![AWS ECS Dashboard](./public/aws.png)
 - **Frontend**: Built with **Next.js**, hosted locally or deployed to a service of your choice.
 - **Backend**: Built with **Node.js** and **Express**, hosted on **AWS EC2**, and uses **MongoDB** as the database.
 
@@ -28,5 +28,3 @@ This is a simple application built with **Next.js** (for the frontend) and **Nod
 ## Backend code
    git clone https://github.com/Praneethpshetty24/node-js.git
 
-## AWS ECS Dashboard
-![AWS ECS Dashboard](/aws.png)
