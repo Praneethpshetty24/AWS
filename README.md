@@ -1,11 +1,17 @@
 # Node.js and Next.js Application
+---
+
+## Backend Repository
+
+You can find the backend source code here:  
+👉 [GitHub Repository](https://github.com/Praneethpshetty24/node-js.git)
+
+---
 
 This is a simple full-stack application built with **Next.js** for the frontend and **Node.js** with **Express** for the backend.  
 The backend is hosted on **AWS EC2** and uses **MongoDB** for the database. The app provides basic APIs for user management, including user registration, update, fetching, and deletion.
 
 ---
-
-## Project Structure
 
 ### AWS ECS Dashboard
 ![AWS ECS Dashboard](./public/aws.png)
@@ -40,11 +46,6 @@ The backend is hosted on **AWS EC2** and uses **MongoDB** for the database. The 
 - **MongoDB** (Database)
 - **AWS EC2** (Server Hosting)
 
----
 
-## Backend Repository
-
-You can find the backend source code here:  
-👉 [GitHub Repository](https://github.com/Praneethpshetty24/node-js.git)
 
 ---
