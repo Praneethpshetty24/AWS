@@ -5,6 +5,7 @@
 
 You can find the backend source code here:  
 👉 [GitHub Repository](https://github.com/Praneethpshetty24/node-js.git)
+https://www.praneethp.xyz/blog/projects/project4 - Detailed Blog
 
 ---
 
